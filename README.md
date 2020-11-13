@@ -1,3 +1,7 @@
+# Search List Apllicatiom
+
+Search list is an simple react application which fetches the list of images as per the search query
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
