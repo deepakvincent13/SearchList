@@ -1,4 +1,4 @@
-# Search List Apllicatiom
+# Search List Application
 
 Search list is an simple react application which fetches the list of images as per the search query
 
